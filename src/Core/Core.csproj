@@ -34,9 +34,9 @@
     <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
     <PackageReference Include="PCLCrypto" Version="2.0.147" />
     <PackageReference Include="zxcvbn-core" Version="7.0.92" />
-    <PackageReference Include="Microsoft.AppCenter.Crashes" Version="5.0.2" />
-    <PackageReference Include="MessagePack" Version="2.4.59" />
-    <PackageReference Include="MessagePack.MSBuild.Tasks" Version="2.4.59">
+    <PackageReference Include="Microsoft.AppCenter.Crashes" Version="5.0.3" />
+    <PackageReference Include="MessagePack" Version="2.5.129" />
+    <PackageReference Include="MessagePack.MSBuild.Tasks" Version="2.5.129">
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
       <PrivateAssets>all</PrivateAssets>
     </PackageReference>
